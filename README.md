@@ -1,2 +1,2 @@
-# nord-plus-theme
-VS Code Theme Based on Nord + Atom Dark Pro
+# Nord+
+A theme based on Nord, with syntax highlighting by One Dark Pro for better code readability
