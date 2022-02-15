@@ -17,7 +17,7 @@
 ---
 Nord theme provides a beautiful and elegant arctic north-blueish color pallet. Although the theme provides a beautiful shell, the syntax highlighting is very difficult to read.
 
-This project aim's to fix that by using Atoms One Dark Pro Syntax Highlighting within the Nord Theme's shell. This gives us the best of both worlds. A beautiful north blueish shell with the easy readability of One Dark Pro's Syntax legendary highlighting.
+This project aim's to fix that by using Atoms One Dark Pro Syntax Highlighting within the Nord Theme's shell. This gives us the best of both worlds. A beautiful north blueish shell with the easy readability of One Dark Pro's legendary Syntax highlighting.
 
 ## 📸 Screenshot
 ---
