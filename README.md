@@ -6,12 +6,12 @@
 
 </br>
 <p align="center">
-    Shell styling provided by <strong><a href="https://github.com/arcticicestudio/nord-visual-studio-code" target="_blank">Nord</a></strong>, syntax highlighting by <strong><a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a></strong>, continued theme enhancements by community.
+    Shell styling provided by <strong><a href="https://github.com/arcticicestudio/nord-visual-studio-code" target="_blank">Nord</a></strong>, syntax highlighting by <strong><a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a></strong>,</br> continued theme enhancements by community.
 </p>
 
----
+</br>
 
-## Issue
+## 💡 Issue
 ---
 Nord theme provides a beautiful and elegant arctic north-blueish color pallet. Although the theme provides a beautiful shell, the syntax highlighting is very difficult to read.
 
@@ -19,7 +19,7 @@ This project aim's to fix that by using Atoms One Dark Pro Syntax Highlighting w
 
 </br>
 
-## 📸 Screenshots
+## 📸 Screenshot
 ---
 ![ScreenShot](./assets/screen.png)
 
