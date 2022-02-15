@@ -1,7 +1,7 @@
 ![APM](https://img.shields.io/github/license/yeasir01/nord-plus-theme)
 
 <p align="center">
-    <img width="150px" src="./assets/nord-plus-icon.png" />
+    <img width="150px" src="./assets/nord-plus-icon.png" style="border-radius:50%"/>
 </p>
 
 ---
@@ -9,13 +9,11 @@
     Shell styling provided by <strong><a href="https://github.com/arcticicestudio/nord-visual-studio-code" target="_blank">NORD</a></strong>, syntax highlighting by <strong><a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">ONE DARK PRO</a></strong>, continued theme enhancements by community.
 </p>
 
-
-## 💭 The Issue
-___
+<p>
 Nord theme provides a beautiful and elegant arctic north-blueish color pallet. Although the theme provides a beautiful shell the syntax highlighting is very difficult to read.
 
 This project aim's to fix that by using the Atoms One Dark Pro Syntax Highlighting within the Nord Theme's shell. This gives us the best of both worlds. A beautiful north blueish shell with the easy readability of One Dark Pro's Syntax legendary highlighting.
-
+</p>
 
 ## 📸 Screenshots
 ___
