@@ -1,5 +1,3 @@
-![APM](https://img.shields.io/github/license/yeasir01/nord-plus-theme)
-
 <p align="center">
     <img width="150px" src="./assets/git_logo.png"/>
 </p>
@@ -7,6 +5,10 @@
 </br>
 <p align="center">
     Shell styling provided by <strong><a href="https://github.com/arcticicestudio/nord-visual-studio-code" target="_blank">Nord</a></strong>, syntax highlighting by <strong><a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a></strong>,</br> continued theme enhancements by community.
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/yeasir01/nord-plus-theme" />
 </p>
 
 ## 💡 Issue
