@@ -6,30 +6,34 @@
 
 </br>
 <p align="center">
-    Shell styling provided by <strong><a href="https://github.com/arcticicestudio/nord-visual-studio-code" target="_blank">Nord</a></strong>, syntax highlighting by <strong><a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a></strong>,</br> continued theme enhancements by community.
+    Shell styling by <strong><a href="https://github.com/arcticicestudio/nord-visual-studio-code" target="_blank">Nord</a></strong>, syntax highlighting by <strong><a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a></strong>,</br> enhancements by community.
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/github/license/yeasir01/nord-plus-theme" />
 </p>
 
-## 💡 Issue
+## Issue
 ---
-Nord theme provides a beautiful and elegant arctic north-blueish color pallet. Although the theme provides a beautiful shell, the syntax highlighting is very difficult to read.
+Nord theme provides a beautiful and elegant arctic north-blueish color pallet. Although the theme provides a beautiful shell, the syntax highlighting is lacking the necessary contrast to make the code readable.
 
-This project aim's to fix that by using Atoms One Dark Pro Syntax Highlighting within the Nord Theme's shell. This gives us the best of both worlds. A beautiful north blueish shell with the easy readability of One Dark Pro's legendary Syntax highlighting.
+This project aim's to fix that by using Atoms One Dark Pro Syntax Highlighting color pallette within the Nord theme shell.
 
-## 📸 Screenshot
+## Screenshot
 ---
-![ScreenShot](./assets/screen.png)
+![ScreenShot1](./assets/before.png)
 
-## 🚩 Getting Started
+</br>
+
+![ScreenShot2](./assets/after.png)
+
+## Getting Started
 ---
 Using the official VS Code Extension Marketplace, Nord+ can be installed with one click.
 
 Open the extension marketplace by clicking on the Extensions icon in your Activity Bar. Search for ```Nord+``` and click on the Install button.
 
-## ⭐ Credits
+## Attribution & Credits
 ---
 [Nord Visual Studio Code](https://github.com/arcticicestudio/nord-visual-studio-code) "An arctic, north-bluish clean and elegant Visual Studio Code theme."
 
